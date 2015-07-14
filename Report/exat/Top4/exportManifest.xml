@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:ExportManifest xmlns:ns2="http://www.pentaho.com/schema/">
+    <ExportManifestInformation exportDate="02-06-2015 10:13:55 ICT" exportBy="admin" rootFolder="/public/รายงาน/" manifestVersion="2"/>
+    <ExportManifestEntity path="Top4.prpt">
+        <ExportManifestProperty>
+            <EntityMetaData name="Top4.prpt" createdDate="2015-02-25T15:38:20.428+07:00" isFolder="false" path="Top4.prpt" isHidden="false" locale="th_TH" title="Top4-อัตราการเติมเงินสำรองค่าผ่านทางของบัตรอัตโนมัติ"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <aces>
+                    <permissions>READ</permissions>
+                    <recipient>Marketing_main</recipient>
+                    <recipientType>ROLE</recipientType>
+                </aces>
+                <entriesInheriting>false</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+</ns2:ExportManifest>

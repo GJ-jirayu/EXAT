@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:ExportManifest xmlns:ns2="http://www.pentaho.com/schema/">
+    <ExportManifestInformation exportDate="02-06-2015 10:13:13 ICT" exportBy="admin" rootFolder="/public/รายงาน/" manifestVersion="2"/>
+    <ExportManifestEntity path="OBU3.prpt">
+        <ExportManifestProperty>
+            <EntityMetaData name="OBU3.prpt" createdDate="2015-02-25T15:36:27.905+07:00" isFolder="false" path="OBU3.prpt" isHidden="false" locale="th_TH" title="OBU3-สรุปการใช้บัตร Easy Pass เป็นรายบัตร"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+</ns2:ExportManifest>

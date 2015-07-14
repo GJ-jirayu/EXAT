@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:ExportManifest xmlns:ns2="http://www.pentaho.com/schema/">
+    <ExportManifestInformation exportDate="02-06-2015 10:17:34 ICT" exportBy="admin" rootFolder="/public/รายงาน/" manifestVersion="2"/>
+    <ExportManifestEntity path="Traf5.prpt">
+        <ExportManifestProperty>
+            <EntityMetaData name="Traf5.prpt" createdDate="2015-02-25T15:31:53.540+07:00" isFolder="false" path="Traf5.prpt" isHidden="false" locale="th_TH" description="รายงานปริมาณรถผ่านสะสม" title="Traf5-ปริมาณรถผ่านทางตามสายทางสะสม แยกตามปีงบประมาณ"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <aces>
+                    <permissions>READ</permissions>
+                    <recipient>Marketing_main</recipient>
+                    <recipientType>ROLE</recipientType>
+                </aces>
+                <entriesInheriting>false</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+</ns2:ExportManifest>

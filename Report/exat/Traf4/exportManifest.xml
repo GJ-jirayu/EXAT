@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:ExportManifest xmlns:ns2="http://www.pentaho.com/schema/">
+    <ExportManifestInformation exportDate="02-06-2015 10:17:28 ICT" exportBy="admin" rootFolder="/public/รายงาน/" manifestVersion="2"/>
+    <ExportManifestEntity path="Traf4.prpt">
+        <ExportManifestProperty>
+            <EntityMetaData name="Traf4.prpt" createdDate="2015-02-25T15:30:30.756+07:00" isFolder="false" path="Traf4.prpt" isHidden="false" locale="th_TH" description="ปริมาณการผ่านทางพิเศษด้วยบัตรอัตโนมัติ (Easy Pass) ตามปีงบประมาณ" title="Traf4-ปริมาณจราจรตามสายทาง แยกตามปีงบประมาณ กราฟ"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <aces>
+                    <permissions>READ</permissions>
+                    <recipient>Marketing_main</recipient>
+                    <recipientType>ROLE</recipientType>
+                </aces>
+                <entriesInheriting>false</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+</ns2:ExportManifest>

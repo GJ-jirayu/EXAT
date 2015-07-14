@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:ExportManifest xmlns:ns2="http://www.pentaho.com/schema/">
+    <ExportManifestInformation exportDate="02-06-2015 10:16:57 ICT" exportBy="admin" rootFolder="/public/รายงาน/" manifestVersion="2"/>
+    <ExportManifestEntity path="Traf3.prpt">
+        <ExportManifestProperty>
+            <EntityMetaData name="Traf3.prpt" createdDate="2015-02-25T15:29:14.507+07:00" isFolder="false" path="Traf3.prpt" isHidden="false" locale="th_TH" description="รายงานปริมาณการผ่านทางพิเศษด้วยบัตรอัตโนมัติ (Easy Pass) จำแนกรายชั่วโมง (ในช่วงเวลาเร่งด่วน)" title="Traf3-ปริมาณการผ่านทางด้วยบัตรอัตรโนมัติ จำแนกรายชั่วโมงเร่งด่วน"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <aces>
+                    <permissions>READ</permissions>
+                    <recipient>Marketing_main</recipient>
+                    <recipientType>ROLE</recipientType>
+                </aces>
+                <entriesInheriting>false</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+</ns2:ExportManifest>

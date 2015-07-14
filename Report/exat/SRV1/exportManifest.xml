@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:ExportManifest xmlns:ns2="http://www.pentaho.com/schema/">
+    <ExportManifestInformation exportDate="02-06-2015 10:13:20 ICT" exportBy="admin" rootFolder="/public/รายงาน/" manifestVersion="2"/>
+    <ExportManifestEntity path="SRV1.prpt">
+        <ExportManifestProperty>
+            <EntityMetaData name="SRV1.prpt" createdDate="2015-02-25T15:11:59.719+07:00" isFolder="false" path="SRV1.prpt" isHidden="false" locale="th_TH" title="SRV1-การให้บริการ การซื้อ/แก้ไข/โอนกรรมสิทธิ์"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <aces>
+                    <permissions>READ</permissions>
+                    <recipient>Marketing_main</recipient>
+                    <recipientType>ROLE</recipientType>
+                </aces>
+                <entriesInheriting>false</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+</ns2:ExportManifest>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:ExportManifest xmlns:ns2="http://www.pentaho.com/schema/">
+    <ExportManifestInformation exportDate="02-06-2015 10:12:56 ICT" exportBy="admin" rootFolder="/public/รายงาน/" manifestVersion="2"/>
+    <ExportManifestEntity path="OBU1.prpt">
+        <ExportManifestProperty>
+            <EntityMetaData name="OBU1.prpt" createdDate="2015-02-25T15:18:36.677+07:00" isFolder="false" path="OBU1.prpt" isHidden="false" locale="th_TH" description="รายงานการใช้บัตรตามช่วงจำนวน" title="OBU1-การใช้บัตรตามช่วงจำนวนการใช้งาน"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+</ns2:ExportManifest>
