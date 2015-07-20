@@ -1,0 +1,33 @@
+CS
+Host: 10.2.11.50
+Database: etccsdms
+user: smartcs
+password: etc@CSUSER02
+
+Staging
+Host: 10.2.13.37
+Database: stagingcs
+user: smartcs
+password: petz1234
+
+BI Server
+  Host: 10.2.13.36
+  Port: 8080
+
+Database DWH
+  Host: 10.2.13.35
+  Database name: dw2db 
+  User: exat_dwh
+  Password: petz1234
+  Port: 1521
+
+ETL
+  Host: 10.2.13.35
+  Database name: dw2db 
+  User: etl_dwh
+  Password: petz1234
+  Port: 1521
+
+TeamViewer
+Email:adulwongsuwon@gmail.com
+Password:u40111641
